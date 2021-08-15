@@ -6,7 +6,7 @@
 █▄▄█ █░░▀░░┬░░▀░░█ █▄▄█
 
 ```
-![snake animation](https://github.com/monse-arriaga)
+![Snake animation](https://github.com/monse-arriaga/monse-arriaga/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **monse-arriaga/monse-arriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
