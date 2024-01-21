@@ -1,9 +1,9 @@
 
 ```
-      ▄▀▄     ▄▀▄
-     ▄█░░▀▀▀▀▀░░█▄
- ▄▄  █░░░░░░░░░░░█  ▄▄
-█▄▄█ █░░▀░░┬░░▀░░█ █▄▄█
+                                                      ▄▀▄     ▄▀▄
+                                                     ▄█░░▀▀▀▀▀░░█▄
+                                                 ▄▄  █░░░░░░░░░░░█  ▄▄
+                                                █▄▄█ █░░▀░░┬░░▀░░█ █▄▄█
 
 ```
 <img src="https://raw.githubusercontent.com/monse-arriaga/monse-arriaga/output/snake.svg" alt="Snake animation" />
